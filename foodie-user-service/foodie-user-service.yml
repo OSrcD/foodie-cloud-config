@@ -1,5 +1,4 @@
 # 公共的配置 注册中心在拉取配置的时候 发现dev 配置里没有 而 这个文件里有的配置 会 拉取这些没有的配置
-
 management:
   endpoint:
     health:
