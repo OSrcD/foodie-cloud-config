@@ -9,6 +9,7 @@ management:
       exposure:
         include: '*'
   security:
+    enabled: false
     user:
       name: gitee
       password: gitee
